@@ -26,9 +26,8 @@ body {
 }
 
 .title-text {
-  background: linear-gradient(135deg, #f09819 0%, #ff512f 100%)
-    text;
-  -webkit-text-fill-color: transparent;
+  background: linear-gradient(135deg, #f09819 0%, #ff512f 100%) text;
+  color: transparent;
   line-height: 5rem;
 }
 
